@@ -43,7 +43,17 @@ A full-stack **Todo Management application** built with **React.js** for the fro
 ### Frontend (React.js)
 Open terminal in the frontend folder and run:
 
-```bash
 cd frontend
 npm install
 npm start
+
+
+### Backend (Spring Boot)
+Open terminal in the backend folder and run:
+
+cd backend
+mvn clean install
+mvn spring-boot:run
+
+
+```bash
